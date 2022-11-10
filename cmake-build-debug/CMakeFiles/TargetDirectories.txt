@@ -1,0 +1,3 @@
+C:/Users/Klaudia/CLionProjects/labost/cmake-build-debug/CMakeFiles/labost.dir
+C:/Users/Klaudia/CLionProjects/labost/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Klaudia/CLionProjects/labost/cmake-build-debug/CMakeFiles/rebuild_cache.dir
